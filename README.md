@@ -44,5 +44,4 @@ Periférico de entrada principal utilizado para la gestión de modos, velocidade
 
 
 
-> [!NOTE]
-> **IMPORTANTE:** La idea central del trabajo es rotar el sistema para maximizar la luz que recibe un panel solar. Actualmente, se compró un panel solar a través de TEMU, pero debido a que no se conoce con claridad la fecha de entrega, se propondrá un valor de voltaje generado arbitrario en función de la luz recibida por las fotorresistencias para las simulaciones y pruebas iniciales.
+
